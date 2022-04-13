@@ -1,2 +1,4 @@
-# business-app
-Python Project
+# businessApp
+A program/app that demonstrates my own take on a point-of-sale system for a business. The program allows products, customer, and invoices to be saved, edited, and deleted. There is also a feature of creating a list of products to be purchased for a customer, and this list is saved as an invoice, and can be assigned to a customer to be saved. All items are saved within a database with the credentials saved in the program code, and can be used for anyone. BusinessApp utilizes MySQL to store all items, and this database is stored on a remote server, which should always be on. I understand that my remote database username/password is in the code - this is fine as this is just a hobbyist program. PLEASE NOTE - WILL ONLY WORK ON A WINDOWS OS AND LINUX OS (TESTED ON ARCH LINUX).
+# businessAppOld
+Unfinished BusinessApp 1.0/early version, and uses the local files in the folder instead of a remote database. To be used, change the file paths within the code to where they are currently located on the machine it is being saved/used on. PLEASE NOTE - WILL ONLY WORK ON A WINDOWS OS AND LINUX OS (TESTED ON ARCH LINUX).
